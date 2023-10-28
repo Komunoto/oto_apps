@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205022775029",
+    "project_id": "komunoto-app",
+    "storage_bucket": "komunoto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205022775029:android:bf5454f5e18a7e3055a7bc",
+        "android_client_info": {
+          "package_name": "com.example.oto_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJL6wZcq4ZOzzU_MKzaBhBT8YukWWzxio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
